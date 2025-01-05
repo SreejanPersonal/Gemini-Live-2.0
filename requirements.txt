@@ -1,0 +1,11 @@
+colorama==0.4.6
+exceptiongroup==1.2.2
+mss==10.0.0
+opencv_contrib_python==4.10.0.84
+opencv_python==4.9.0.80
+Pillow==11.1.0
+protobuf==5.29.2
+PyAudio==0.2.14
+python-dotenv==1.0.1
+taskgroup==0.2.2
+google-genai

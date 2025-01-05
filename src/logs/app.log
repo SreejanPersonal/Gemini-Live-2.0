@@ -1,0 +1,6 @@
+[2025-01-05 10:29:43] [INFO] Gemini Live Application Started.
+[2025-01-05 10:29:43] [INFO] Starting AudioOnlyHandler.
+[2025-01-05 10:29:45] [INFO] Audio listen task started.
+[2025-01-05 10:29:45] [INFO] Audio send task started.
+[2025-01-05 10:29:45] [INFO] Audio receive task started.
+[2025-01-05 10:29:45] [INFO] Audio play task started.
