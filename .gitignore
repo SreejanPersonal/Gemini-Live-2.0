@@ -1,2 +1,4 @@
 .env
 logs
+export_code.py
+directory_report.md

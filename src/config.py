@@ -1,5 +1,3 @@
-# src/config.py
-
 import os
 import pyaudio
 from dotenv import load_dotenv
@@ -24,3 +22,8 @@ DEFAULT_LOG_LEVEL = "INFO"
 # Input Modes
 INPUT_MODE_AUDIO = "audio"
 INPUT_MODE_TEXT = "text"
+INPUT_MODE_CAMERA = "camera"
+INPUT_MODE_SCREEN = "screen"
+
+# Screen Capture Configuration
+DEFAULT_MONITOR_INDEX = 1  # Default monitor index (1-based indexing)
